@@ -1,0 +1,19 @@
+{
+  "name": "adentro.info",
+  "version": "1.0.0",
+  "description": "Test s3 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"budo index.js --live --open"
+  },
+  "author": "xani",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexandreXavier"
+  },
+  "devDependencies": {
+    "budo": "^8.3.0"
+  }
+}
